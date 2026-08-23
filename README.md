@@ -48,8 +48,8 @@ Hello! I'm **bigtechs2** (aka **bigmanjtech™**), a full‑stack developer from
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigtechs2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtechs2&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?bigtechs2=bigtechs2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bigtechs2=bigtechs2&layout=compact&theme=radical)
 
 </div>
 
