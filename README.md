@@ -4,77 +4,120 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> owner of bigmanjtech™
 
 
-<!-- ─── MATRIX BANNER ─── -->
-<p align="center">
-  <img src="animated_name.svg" width="100%" alt="bigtechs2" />
-</p>
+# 👋 Hi, I'm bigmanj™
+
+**Building Tomorrow's Tech, Today**
+
+![Banner](https://files.catbox.moe/0hmdof.png)
 
 ---
 
-> **bigtechs2** · Full-Stack Developer · Mbeya, Tanzania
+## 🚀 About Me
 
-> *“Code. Build. Inspire.”*
+I'm **bigmanj™** – a passionate developer, tech enthusiast, and founder of **BIGST4CK**. I specialize in building AI-powered WhatsApp bots, Telegram bots, automation tools, and server hosting solutions.
 
----
-
-## 👨‍💻 About
-
-> I'm bigtechs2 (aka bigmanjtech™), a full‑stack developer from Mbeya, Tanzania. I build tech that simplifies and enhances people's lives.
-
-> 🔭 Currently building: **BIGST4CK** – a WhatsApp bot with 100+ commands  
-> 🌱 Learning: TypeScript, Go, Cloud Architecture  
-> 💬 Ask me about: Node.js, WhatsApp bots, Pterodactyl  
-> ⚡ Fun fact: I code with music on 🎵
+I believe technology should be **accessible, affordable, and useful for everyone**.
 
 ---
 
-## 🚀 Projects
+## 🛠️ What I Do
 
-> **BIGST4CK** – WhatsApp bot with AI, games, sports, downloads  
-> **bighosting** – Pterodactyl server store with SonicPesa  
-> **BIGDONATE** – Donation platform with USSD payments  
-> **Wi‑Fi Hotspot** – Time‑based billing system
-
----
-
-## 🛠️ Tech Stack
-
-> Node.js · TypeScript · Python · MongoDB · PostgreSQL · Docker · Linux
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
+| Area | Description |
+|------|-------------|
+| **🤖 WhatsApp Bots** | AI-powered bots with chat, downloaders, group management, and server selling |
+| **🖥️ Telegram Bots** | Server selling bots with Pterodactyl integration |
+| **🌐 Website Development** | Professional websites, landing pages, and web applications |
+| **⚡ Automation** | Chatbots, workflow automation, and digital solutions |
+| **🏗️ Server Hosting** | Pterodactyl panel management and server deployment |
 
 ---
 
-## 📊 Stats
+## 📦 My Projects
 
-> Building the future, one commit at a time.
+### 🖥️ BIGST4CK – WhatsApp Bot
+The flagship WhatsApp bot combining AI chat, content downloaders, group management, and server selling.
+- **AI Chat** – ChatGPT, DeepSeek, Gemini, Claude, Meta AI
+- **Downloaders** – YouTube, Spotify, Facebook, TikTok, Instagram
+- **Group Management** – Anti-bot, Warn, Kick, Promote, Demote, Mute
+- **Server Selling** – Create servers directly from WhatsApp
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigtechs2&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigtechs2&layout=compact&theme=radical" width="48%">
-</p>
+### 🖥️ BIGST4CK – Telegram Bot
+A server selling bot with full Pterodactyl integration.
+- **Server Plans** – 1GB to 10GB + Unlimited
+- **Payment System** – Manual and Crypto support
+- **Admin Panel** – Verify payments, ban/unban users, delete servers
+
+### 🌐 BigWeb – Website
+Brand presence and customer portal for BIGST4CK.
+- **Live URL:** [bigweb.onrender.com](https://bigweb.onrender.com)
 
 ---
 
-## 📬 Connect
+## 👥 My Team
 
-<p align="center">
-  <a href="https://wa.me/255636756591"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/bigtechs2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://youtube.com/@bigtechs2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/bigtechs2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+| Name | Role |
+|------|------|
+| **bigmanj™** | Founder & Lead Developer |
+| **bigtechs1** | Lead Developer |
+| **bigtechs2** | Developer |
+| **bigtechs3** | Upcoming Tech |
 
 ---
 
-> *Code. Build. Inspire.*  
-> © 2026 bigtechs2
+## 💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | JavaScript, Node.js, HTML, CSS |
+| **Frameworks** | Telegraf, Express, Baileys |
+| **Databases** | Simpl.DB, JSON |
+| **Hosting** | Pterodactyl, Render.com |
+| **APIs** | Pterodactyl API, OpenAI, Gemini, DeepSeek |
+
+---
+
+## 📞 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| **WhatsApp** | [wa.me/255636756591](https://wa.me/255636756591) |
+| **Email** | [bigmanj.tech@gmail.com](mailto:bigmanj.tech@gmail.com) |
+| **Website** | [bigweb.onrender.com](https://bigweb.onrender.com) |
+| **GitHub** | [github.com/bigtechs1](https://github.com/bigtechs1) |
+| **WhatsApp Group** | [BIGST4CK Family](https://chat.whatsapp.com/EWlNm6bMYJCELwzvnmboyC) |
+| **WhatsApp Channel** | [BIGST4CK Updates](https://whatsapp.com/channel/0029VbDJJY19WtC1T0Vgqp0v) |
+
+---
+
+## 🎯 My Mission
+
+> *"Making technology accessible, affordable, and useful for everyone."*
+
+I'm committed to building innovative tech solutions that empower communities, simplify communication, and drive automation.
+
+---
+
+## 💡 Fun Fact
+
+I built **BIGST4CK** from the ground up – a complete WhatsApp bot with AI, downloaders, group management, and server selling, all integrated with Pterodactyl.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigtechs1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtechs1&layout=compact&theme=radical)
+
+---
+
+## 📌 Quote I Live By
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+**Built with ♥︎ by bigmanj™**
+
+---
+
+*© 2026 bigmanjtech™ – All rights reserved.*
