@@ -4,120 +4,150 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> owner of bigmanjtech™
 
 
-# 👋 Hi, I'm bigmanj™
+# 🚀 Mr bigmanj – Founder of bigmanjtech™
 
 **Building Tomorrow's Tech, Today**
 
-![Banner](https://files.catbox.moe/0hmdof.png)
+![Version](https://img.shields.io/badge/version-1.0.0-grey)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://bigweb.onrender.com)
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-Group-25D366)](https://chat.whatsapp.com/EWlNm6bMYJCELwzvnmboyC)
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-181717)](https://github.com/bigtechs2)
+
+**Built with ♥︎ by bigmanjtech™**
 
 ---
 
-## 🚀 About Me
+## 📌 Table of Contents
 
-I'm **bigmanj™** – a passionate developer, tech enthusiast, and founder of **BIGST4CK**. I specialize in building AI-powered WhatsApp bots, Telegram bots, automation tools, and server hosting solutions.
-
-I believe technology should be **accessible, affordable, and useful for everyone**.
-
----
-
-## 🛠️ What I Do
-
-| Area | Description |
-|------|-------------|
-| **🤖 WhatsApp Bots** | AI-powered bots with chat, downloaders, group management, and server selling |
-| **🖥️ Telegram Bots** | Server selling bots with Pterodactyl integration |
-| **🌐 Website Development** | Professional websites, landing pages, and web applications |
-| **⚡ Automation** | Chatbots, workflow automation, and digital solutions |
-| **🏗️ Server Hosting** | Pterodactyl panel management and server deployment |
+- [About Mr bigmanj](#about-mr-bigmanj)
+- [About bigmanjtech™](#about-bigmanjtech)
+- [Our Products](#our-products)
+- [Our Team](#our-team)
+- [Vision & Mission](#vision--mission)
+- [Contact](#contact)
+- [GitHub Repositories](#github-repositories)
+- [License](#license)
 
 ---
 
-## 📦 My Projects
+## 👤 About Mr bigmanj
 
-### 🖥️ BIGST4CK – WhatsApp Bot
-The flagship WhatsApp bot combining AI chat, content downloaders, group management, and server selling.
-- **AI Chat** – ChatGPT, DeepSeek, Gemini, Claude, Meta AI
-- **Downloaders** – YouTube, Spotify, Facebook, TikTok, Instagram
-- **Group Management** – Anti-bot, Warn, Kick, Promote, Demote, Mute
-- **Server Selling** – Create servers directly from WhatsApp
+**Mr bigmanj** is the visionary founder and lead developer behind **bigmanjtech™**. With a deep passion for technology, innovation, and community-driven solutions, he has dedicated his career to building tools that make technology accessible, affordable, and useful for everyone.
 
-### 🖥️ BIGST4CK – Telegram Bot
-A server selling bot with full Pterodactyl integration.
-- **Server Plans** – 1GB to 10GB + Unlimited
-- **Payment System** – Manual and Crypto support
-- **Admin Panel** – Verify payments, ban/unban users, delete servers
+Mr bigmanj is a **Tanzanian tech entrepreneur** with expertise in:
 
-### 🌐 BigWeb – Website
-Brand presence and customer portal for BIGST4CK.
-- **Live URL:** [bigweb.onrender.com](https://bigweb.onrender.com)
+- 🤖 **AI-powered bot development** (WhatsApp & Telegram)
+- 🖥️ **Server management and automation** (Pterodactyl)
+- 🌐 **Website and web application development**
+- ⚡ **Digital solutions and workflow automation**
+- 💡 **Open-source software and community building**
+
+He believes in empowering individuals and businesses through technology, and his work reflects a commitment to **quality, simplicity, and reliability**.
 
 ---
 
-## 👥 My Team
+## 🏢 About bigmanjtech™
 
-| Name | Role |
-|------|------|
-| **bigmanj™** | Founder & Lead Developer |
-| **bigtechs1** | Lead Developer |
-| **bigtechs2** | Developer |
-| **bigtechs3** | Upcoming Tech |
+**bigmanjtech™** is a Tanzanian technology brand founded by Mr bigmanj. The company specializes in:
+
+- 🧠 **AI-powered bots** (WhatsApp, Telegram)
+- 🖥️ **Server hosting and management**
+- 🌐 **Website and app development**
+- ⚡ **Automation and digital solutions**
+
+### Our Mission
+Making technology accessible, affordable, and useful for everyone.
+
+### Our Vision
+To be Africa's leading tech brand, empowering communities through innovation.
+
+### Our Values
+- **Innovation** – Pushing boundaries with new ideas.
+- **Simplicity** – Making tech easy for everyone.
+- **Reliability** – Building trust through quality.
+- **Community-Driven** – Growing together with our users.
 
 ---
 
-## 💻 Tech Stack
+## 📦 Our Products
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | JavaScript, Node.js, HTML, CSS |
-| **Frameworks** | Telegraf, Express, Baileys |
-| **Databases** | Simpl.DB, JSON |
-| **Hosting** | Pterodactyl, Render.com |
-| **APIs** | Pterodactyl API, OpenAI, Gemini, DeepSeek |
+| Product | Platform | Description |
+|---------|----------|-------------|
+| **BIGST4CK** | WhatsApp | AI-powered WhatsApp bot with downloaders, group management, and server selling. |
+| **BIGST4CK** | Telegram | Server selling bot with Pterodactyl integration. |
+| **BigWeb** | Website | Brand presence and customer portal. |
+| **BigPanel** | Pterodactyl | Server management and deployment. |
 
 ---
 
-## 📞 Connect With Me
+## 👥 Our Team
 
-| Platform | Link |
-|----------|------|
-| **WhatsApp** | [wa.me/255636756591](https://wa.me/255636756591) |
+| Name | Role | Contact |
+|------|------|---------|
+| **Mr bigmanj** | Founder & Lead Developer | [GitHub](https://github.com/bigtechs2) |
+| **bigtechs1** | Lead Developer | [WhatsApp](https://wa.me/255777580820) |
+| **bigtechs2** | Developer | [WhatsApp](https://wa.me/255636756591) |
+| **bigtechs3** | Upcoming Tech | [WhatsApp](https://wa.me/255705517165) |
+
+---
+
+## 💡 Vision & Mission
+
+### Our Vision
+To be Africa's leading tech brand, empowering communities through innovation.
+
+### Our Mission
+Making technology accessible, affordable, and useful for everyone.
+
+### Core Values
+- **Innovation** – Pushing boundaries with new ideas.
+- **Simplicity** – Making tech easy for everyone.
+- **Reliability** – Building trust through quality.
+- **Community-Driven** – Growing together with our users.
+
+---
+
+## 📞 Contact
+
+| Name | Contact |
+|------|---------|
+| **Mr bigmanj (Founder)** | [GitHub](https://github.com/bigtechs2) |
+| **bigtechs1** | [WhatsApp](https://wa.me/255777580820) |
+| **bigtechs2** | [WhatsApp](https://wa.me/255636756591) |
+| **bigtechs3** | [WhatsApp](https://wa.me/255705517165) |
+| **Join Group** | [WhatsApp Group](https://chat.whatsapp.com/EWlNm6bMYJCELwzvnmboyC) |
+| **Updates** | [WhatsApp Channel](https://whatsapp.com/channel/0029VbDJJY19WtC1T0Vgqp0v) |
 | **Email** | [bigmanj.tech@gmail.com](mailto:bigmanj.tech@gmail.com) |
 | **Website** | [bigweb.onrender.com](https://bigweb.onrender.com) |
-| **GitHub** | [github.com/bigtechs1](https://github.com/bigtechs1) |
-| **WhatsApp Group** | [BIGST4CK Family](https://chat.whatsapp.com/EWlNm6bMYJCELwzvnmboyC) |
-| **WhatsApp Channel** | [BIGST4CK Updates](https://whatsapp.com/channel/0029VbDJJY19WtC1T0Vgqp0v) |
 
 ---
 
-## 🎯 My Mission
+## 📁 GitHub Repositories
 
-> *"Making technology accessible, affordable, and useful for everyone."*
-
-I'm committed to building innovative tech solutions that empower communities, simplify communication, and drive automation.
-
----
-
-## 💡 Fun Fact
-
-I built **BIGST4CK** from the ground up – a complete WhatsApp bot with AI, downloaders, group management, and server selling, all integrated with Pterodactyl.
+| Repository | Description | Link |
+|------------|-------------|------|
+| **BIGST4CK** | WhatsApp Bot | [bigtechs1/BIGST4CK](https://github.com/bigtechs1) |
+| **BIGST4CK-Telegram** | Telegram Bot | [bigtechs2/BIGST4CK-Telegram](https://github.com/bigtechs2) |
+| **bigweb** | Website | [bigtechs2/bigweb](https://github.com/bigtechs2/bigweb) |
 
 ---
 
-## 📊 GitHub Stats
+## 📄 License
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigtechs1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtechs1&layout=compact&theme=radical)
-
----
-
-## 📌 Quote I Live By
-
-> *"The best way to predict the future is to build it."*
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Built with ♥︎ by bigmanj™**
+## 🌟 Support
+
+If you find this project useful, please consider:
+
+- ⭐ Starring the repository on GitHub.
+- 📢 Sharing with friends and colleagues.
+- 💰 Donating to support ongoing development.
 
 ---
 
-*© 2026 bigmanjtech™ – All rights reserved.*
+**Built with ♥︎ by bigmanjtech™**
