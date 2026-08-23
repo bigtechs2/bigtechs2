@@ -4,88 +4,43 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> owner of bigmanjtech™
 
 
-## 👨‍💻 About Me
-
-Hello! I'm **bigtechs2** (aka **bigmanjtech™**), a full‑stack developer from **Mbeya, Tanzania**. I build tech that simplifies and enhances people's lives – from WhatsApp bots to server stores and beyond.
-
-- 🔭 I'm currently building **[BIGST4CK](https://github.com/bigtechs2/BIGST4CK)** – a powerful WhatsApp bot with 100+ commands
-- 🌱 I'm diving deeper into **TypeScript**, **Go**, and **cloud architecture**
-- 👯 I'm open to collaborate on **open‑source projects** in the Tanzanian tech space
-- 💬 Ask me about **Node.js**, **WhatsApp bots**, **Pterodactyl**, or **payment integrations**
-- 📫 Reach me on **[WhatsApp](https://wa.me/255636756591)**
-- ⚡ Fun fact: I code with music on – always! 🎵
-
----
-
-## 🚀 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**BIGST4CK**](https://github.com/bigtechs2/BIGST4CK) | WhatsApp bot with AI, games, sports, downloads & more | 🔥 Active |
-| [**bighosting**](https://github.com/bigtechs2/bighosting) | Pterodactyl server store with SonicPesa integration | 🚀 Deploying |
-| [**BIGDONATE**](https://github.com/bigtechs2/BIGDONATE) | Donation platform with SonicPesa USSD payments | ✅ Live |
-| **Wi‑Fi Hotspot** | Time‑based billing system for small businesses | 🔧 Building |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-round&logo=linux&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?bigtechs2=bigtechs2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bigtechs2=bigtechs2&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📬 Connect With Me
-
+<!-- ─── MATRIX BANNER ─── -->
 <p align="center">
-  <a href="https://wa.me/255636756591"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/bigtechs2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://youtube.com/@bigtechs2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/bigtechs2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img src="animated_name.svg" width="100%" alt="bigtechs2" />
 </p>
 
 ---
 
-<div align="center">
-  
-  *"Code. Build. Inspire."*
-  
-  © 2026 bigtechs2 · Built with ☕
+```bash
+> whoami
+bigtechs2
 
-## 🛠️ Tech Stack
+> cat ~/about
+Name: Benedict
+Alias: bigmanjtech™
+Location: Mbeya, Tanzania
+Role: Full-Stack Developer
+Motto: "Code. Build. Inspire."
 
-<div align="center">
+> ls -la ~/projects/
+total 4
+drwxr-xr-x 1 bigtechs2 users  512 Aug 24 2026 BIGST4CK
+drwxr-xr-x 1 bigtechs2 users  512 Aug 22 2026 bighosting
+drwxr-xr-x 1 bigtechs2 users  512 Aug 20 2026 BIGDONATE
+-rw-r--r-- 1 bigtechs2 users  512 Aug 10 2026 wifi-hotspot
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> cat ~/stack
+Node.js TypeScript Python MongoDB PostgreSQL Docker Linux
 
-</div>
+> neofetch
+OS: Ubuntu 22.04
+Shell: bash 5.1.16
+Uptime: ∞
+Packages: 100+ commands
+Shell: bigtechs2@BIGST4CK:~$
+
+> curl https://wa.me/255636756591
+✅ WhatsApp
+
+> curl https://github.com/bigtechs2
+✅ GitHub
