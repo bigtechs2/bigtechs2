@@ -1,4 +1,4 @@
-![MR AFRO BEAT](https://github.com/bigtechs2/bigtechs2/blob/main/animated_name.svg)
+![MR AFRO BEAT](https://github.com/bigtechs2/bigtechs2/main/animated_name.svg)
 
 
 
