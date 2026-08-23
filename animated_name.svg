@@ -1,11 +1,3 @@
-
----
-
-## 🎨 Animated SVG for BIGST4CK
-
-Replace `animated_name.svg` with this:
-
-```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
   <style>
     svg {
