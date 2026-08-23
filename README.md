@@ -1,6 +1,7 @@
+![Banner](https://files.catbox.moe/0hmdof.png)
 
+👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
-I am bigtechs2 owned by Mr bigmanj
 ![MR AFRO BEAT](https://github.com/bigtechs2/bigtechs2/blob/main/animated_name.svg)
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> owner of bigmanjtech™
 
