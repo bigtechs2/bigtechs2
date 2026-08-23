@@ -73,4 +73,4 @@
 </div>
 
 
-![bigtechs2 Banner](bigtechs2_banner.svg)
+![bigtechs2 Banner](animated_name.svg)
