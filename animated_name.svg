@@ -1,0 +1,51 @@
+
+---
+
+## 🎨 Animated SVG for BIGST4CK
+
+Replace `animated_name.svg` with this:
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+  <style>
+    svg {
+      font-family: "Russo One", sans-serif;
+      width: 100%;
+      height: 100%;
+    }
+    svg text {
+      animation: stroke 5s infinite alternate;
+      stroke-width: 2;
+      stroke: #e74c3c;
+      font-size: 80px;
+    }
+    @keyframes stroke {
+      0% {
+        fill: rgba(231, 76, 60, 0);
+        stroke: rgba(231, 76, 60, 1);
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+        stroke-width: 2;
+      }
+      70% {
+        fill: rgba(231, 76, 60, 0);
+        stroke: rgba(231, 76, 60, 1);
+      }
+      80% {
+        fill: rgba(231, 76, 60, 0);
+        stroke: rgba(231, 76, 60, 1);
+        stroke-width: 3;
+      }
+      100% {
+        fill: rgba(231, 76, 60, 1);
+        stroke: rgba(231, 76, 60, 0);
+        stroke-dashoffset: -25%;
+        stroke-dasharray: 50% 0;
+        stroke-width: 0;
+      }
+    }
+  </style>
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+    BIGST4CK
+  </text>
+</svg>
