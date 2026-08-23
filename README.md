@@ -1,4 +1,4 @@
-![Banner](https://github.com/bigtechs2/bigtechs2/blob/main/bigtechs2_banner.svg)
+![Banner](https://leopard.hosting.pecon.us/dl/kcfmd/file.jpg)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
