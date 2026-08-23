@@ -16,7 +16,7 @@ interface Developer {
 }
 
 const adithya: Developer = {
-  name: "Mr Loft",
+  name: "bogtechs",
   location: "Mbeya, Tanzania",
   company: "LOFT QUANTUM INC",
   role: "Founder",
