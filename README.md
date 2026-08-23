@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="animated_name.svg" width="100%" alt="bigtechs2" />
+</p>
+
 <!-- ─── MATRIX BANNER ─── -->
 <p align="center">
   <img src="bigtechs2_banner.svg" width="100%" alt="bigtechs2" />
