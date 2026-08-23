@@ -11,32 +11,35 @@
 
 ---
 
-<p align="center">
-  <i>Full-Stack Developer · Creator · BIGST4CK</i>
-</p>
-
----
-
-<p align="center">
-  <b>📍 Mbeya, Tanzania</b> &nbsp;·&nbsp; <b>👤 bigmanjtech™</b>
-</p>
-
----
+> **bigtechs2** · Full-Stack Developer · Mbeya, Tanzania
 
 > *“Code. Build. Inspire.”*
 
 ---
 
-## 🔥 What I'm Working On
+## 👨‍💻 About
 
-- **[BIGST4CK](https://github.com/bigtechs2/BIGST4CK)** – WhatsApp bot with 100+ commands
-- **[bighosting](https://github.com/bigtechs2/bighosting)** – Pterodactyl server store
-- **[BIGDONATE](https://github.com/bigtechs2/BIGDONATE)** – Donation platform
-- **Wi‑Fi Hotspot** – Time‑based billing system
+> I'm bigtechs2 (aka bigmanjtech™), a full‑stack developer from Mbeya, Tanzania. I build tech that simplifies and enhances people's lives.
+
+> 🔭 Currently building: **BIGST4CK** – a WhatsApp bot with 100+ commands  
+> 🌱 Learning: TypeScript, Go, Cloud Architecture  
+> 💬 Ask me about: Node.js, WhatsApp bots, Pterodactyl  
+> ⚡ Fun fact: I code with music on 🎵
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Projects
+
+> **BIGST4CK** – WhatsApp bot with AI, games, sports, downloads  
+> **bighosting** – Pterodactyl server store with SonicPesa  
+> **BIGDONATE** – Donation platform with USSD payments  
+> **Wi‑Fi Hotspot** – Time‑based billing system
+
+---
+
+## 🛠️ Tech Stack
+
+> Node.js · TypeScript · Python · MongoDB · PostgreSQL · Docker · Linux
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -52,6 +55,8 @@
 ---
 
 ## 📊 Stats
+
+> Building the future, one commit at a time.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bigtechs2&show_icons=true&theme=radical" width="48%">
@@ -71,6 +76,5 @@
 
 ---
 
-<p align="center">
-  <i>Code. Build. Inspire.</i>
-</p>
+> *Code. Build. Inspire.*  
+> © 2026 bigtechs2
