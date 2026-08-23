@@ -1,4 +1,4 @@
-![Banner](https://files.catbox.moe/0hmdof.png)
+![Banner](https://github.com/bigtechs2/bigtechs2/blob/main/bigtechs2_banner.svg)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
