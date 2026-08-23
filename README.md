@@ -9,55 +9,34 @@
   <img src="animated_name.svg" width="100%" alt="bigtechs2" />
 </p>
 
-<br>
+---
 
-<!-- ─── DASHBOARD CARDS ─── -->
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <b>📍 Location</b><br>
-      Mbeya, Tanzania
-    </td>
-    <td align="center" width="150">
-      <b>👤 Alias</b><br>
-      bigmanjtech™
-    </td>
-    <td align="center" width="150">
-      <b>🚀 Role</b><br>
-      Founder & Lead Dev
-    </td>
-    <td align="center" width="150">
-      <b>💡 Motto</b><br>
-      Code. Build. Inspire.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm **bigtechs2**, a full‑stack developer and tech creator from **Mbeya, Tanzania**. I build tools that simplify technology – from WhatsApp bots to server stores and payment systems.
-
-🔭 **Current focus:** [BIGST4CK](https://github.com/bigtechs2/BIGST4CK) – WhatsApp bot  
-🌱 **Learning:** TypeScript, Go, Cloud Architecture  
-💬 **Ask me about:** Node.js, WhatsApp bots, Pterodactyl  
-⚡ **Fun fact:** I code with music on 🎵
+<p align="center">
+  <i>Full-Stack Developer · Creator · BIGST4CK</i>
+</p>
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [BIGST4CK](https://github.com/bigtechs2/BIGST4CK) | WhatsApp bot – AI, games, sports, downloads | 🔥 Active |
-| [bighosting](https://github.com/bigtechs2/bighosting) | Pterodactyl server store | 🚀 Deploying |
-| [BIGDONATE](https://github.com/bigtechs2/BIGDONATE) | Donation platform with USSD | ✅ Live |
-| Wi‑Fi Hotspot | Time‑based billing system | 🔧 Building |
+<p align="center">
+  <b>📍 Mbeya, Tanzania</b> &nbsp;·&nbsp; <b>👤 bigmanjtech™</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+> *“Code. Build. Inspire.”*
+
+---
+
+## 🔥 What I'm Working On
+
+- **[BIGST4CK](https://github.com/bigtechs2/BIGST4CK)** – WhatsApp bot with 100+ commands
+- **[bighosting](https://github.com/bigtechs2/bighosting)** – Pterodactyl server store
+- **[BIGDONATE](https://github.com/bigtechs2/BIGDONATE)** – Donation platform
+- **Wi‑Fi Hotspot** – Time‑based billing system
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -72,7 +51,7 @@ I'm **bigtechs2**, a full‑stack developer and tech creator from **Mbeya, Tanza
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bigtechs2&show_icons=true&theme=radical" width="48%">
@@ -92,10 +71,6 @@ I'm **bigtechs2**, a full‑stack developer and tech creator from **Mbeya, Tanza
 
 ---
 
-<div align="center">
-  
-  *Code. Build. Inspire.*
-  
-  © 2026 bigtechs2
-
-</div>
+<p align="center">
+  <i>Code. Build. Inspire.</i>
+</p>
