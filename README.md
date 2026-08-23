@@ -1,4 +1,4 @@
-![MR AFRO BEAT](https://github.com/Xmdloft23/Xmdloft23/blob/main/animated_name.svg)
+![MR AFRO BEAT](https://github.com/bigtechs2/bigtechs2/blob/main/animated_name.svg)
 
 
 
