@@ -84,10 +84,10 @@ To be Africa's leading tech brand, empowering communities through innovation.
 
 | Name | Role | Contact |
 |------|------|---------|
-| **Mr bigmanj** | Founder & Lead Developer | [GitHub](https://github.com/bigtechs2) |
+| **Mr bigmanj** | Founder & Lead Developer | [WhatsApp](255777580820) |
 | **bigtechs1** | Lead Developer | [WhatsApp](https://wa.me/255777580820) |
 | **bigtechs2** | Developer | [WhatsApp](https://wa.me/255636756591) |
-| **bigtechs3** | Upcoming Tech | [WhatsApp](https://wa.me/255705517165) |
+| **bigtechs3** | developer | [WhatsApp](https://wa.me/255705517165) |
 
 ---
 
@@ -111,7 +111,7 @@ Making technology accessible, affordable, and useful for everyone.
 
 | Name | Contact |
 |------|---------|
-| **Mr bigmanj (Founder)** | [GitHub](https://github.com/bigtechs2) |
+| **Mr bigmanj (Founder)** | [WhatsApp](255777580820) |
 | **bigtechs1** | [WhatsApp](https://wa.me/255777580820) |
 | **bigtechs2** | [WhatsApp](https://wa.me/255636756591) |
 | **bigtechs3** | [WhatsApp](https://wa.me/255705517165) |
@@ -127,7 +127,7 @@ Making technology accessible, affordable, and useful for everyone.
 | Repository | Description | Link |
 |------------|-------------|------|
 | **BIGST4CK** | WhatsApp Bot | [bigtechs1/BIGST4CK](https://github.com/bigtechs1) |
-| **BIGST4CK-Telegram** | Telegram Bot | [bigtechs2/BIGST4CK-Telegram](https://github.com/bigtechs2) |
+| **BIGST4CK** | WhatsApp Bot | [bigtechs2/BIGST4CK-Telegram](https://github.com/bigtechs2) |
 | **bigweb** | Website | [bigtechs2/bigweb](https://github.com/bigtechs2/bigweb) |
 
 ---
@@ -148,4 +148,4 @@ If you find this project useful, please consider:
 
 ---
 
-**Built with ♥︎ by bigmanjtech™**
+**Built by bigmanjtech™ with ♥︎**
