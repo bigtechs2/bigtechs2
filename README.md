@@ -78,4 +78,4 @@
 </div>
 
 
-![bigtechs2 Banner](animated_name.svg)
+![bigtechs2 Banner](https://github.com/bigtechs3/bigtechs3/blob/main/animated_name.svg)
