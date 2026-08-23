@@ -71,3 +71,6 @@
   © 2026 bigtechs2
 
 </div>
+
+
+![bigtechs2 Banner](bigtechs2_banner.svg)
