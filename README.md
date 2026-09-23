@@ -1,4 +1,4 @@
-![Banner](https://leopard.hosting.pecon.us/dl/kcfmd/file.jpg)
+![Banner](https://d.uguu.se/ZDAqWreK.jpg)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
