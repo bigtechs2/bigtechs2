@@ -1,4 +1,4 @@
-![Banner](https://cdn.sologo.ai/temp24h/logo/79cafe3f-6284-4f1f-8148-274d052b1622.jpeg)
+![Banner](https://tmpfiles.org/dl/wjwI8LC0cANK/animagine.png)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
