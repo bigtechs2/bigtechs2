@@ -1,4 +1,4 @@
-![Banner](https://tmpfiles.org/dl/wjwI8LC0cANK/animagine.png)
+![Banner](https://replicate.delivery/xezq/fQAHgHMiDYWoJCpWQ634TzOWCYRw5Lceo5Cfke8l46jH0NBdB/out.png)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
