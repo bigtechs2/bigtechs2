@@ -1,4 +1,4 @@
-![Banner](https://replicate.delivery/xezq/fQAHgHMiDYWoJCpWQ634TzOWCYRw5Lceo5Cfke8l46jH0NBdB/out.png)
+![Banner](hello world)
 
 👋 Hi, I'm bigtechs2 owned by Mr bigmanj
 
